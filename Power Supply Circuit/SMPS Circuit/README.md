@@ -1,6 +1,6 @@
 # Power Supply Circuit Descreption
 
-* Power supply circuit contains two different circuits to generate  diffrent voltage levels
+* Power supply circuit contains  different circuits to generate  diffrent voltage levels
   1. First circuit is a SMPS circuit takes 12V input and generates 5v output.  
 * SMPS Circuit generates 5V using MP1584EN-LF-Z IC which is from Monolithic Power Systems.
 * Why did I choose SMPS ?
@@ -13,4 +13,5 @@
   2. Overvoltage protection.
   3. Surge protection .
 * The power supply circuit also have a LED to notify whether system is powered or not.
+* R26 and R31 resistors are responsible for connecting SMPS block with the entire circuitry.If we remove these two resistors ,SMPS section will completely isolate from the rest of the circuitry.
 * Decoupling capacitors are placed to suppress the high frequency noise on both input and output side.
