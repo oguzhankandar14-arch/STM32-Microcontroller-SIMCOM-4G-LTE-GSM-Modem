@@ -1,4 +1,4 @@
-# Power Supply Circuit Descreption
+# Power Supply Circuit Description
 
 * Power supply circuit contains  different circuits to generate  diffrent voltage levels
   1. First circuit is a SMPS circuit takes 12V input and generates 5v output.  
