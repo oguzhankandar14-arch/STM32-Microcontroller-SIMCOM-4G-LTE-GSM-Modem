@@ -1,0 +1,3 @@
+- TLV70333DVBR LDO IC is used to generate 3.3V output voltage from 5V input voltage for STM32 microcontroller.
+- Decoupling capacitors are placed to suppress high frequency noise.
+- EN pin directly connected to the 5V line.
