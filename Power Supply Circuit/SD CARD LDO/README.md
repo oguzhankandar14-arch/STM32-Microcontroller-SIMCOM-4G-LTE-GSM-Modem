@@ -1,4 +1,4 @@
-SD CARD LDO 
+
 Input Voltage : 5V
 Output Voltage : 3V
 - LP5907MPX IC is used to generate 3V output voltage for SD Card .
