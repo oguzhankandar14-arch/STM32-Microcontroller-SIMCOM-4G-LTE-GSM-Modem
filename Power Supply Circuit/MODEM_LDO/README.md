@@ -10,4 +10,4 @@ Parameters for selecting LDO IC :
 *PSRR indicates how effectively the LDO suppresses noise and ripple at the input and at the output.
 *High PSRR = clean output voltage. 
 *In sensitive analog circuits such as sensors, ADCs, DACs, and RF circuits, supply noise can degrade measurements and stability. The LDO filters out this noise.
--FB1 is used to reduce noise on power line or signal line .
+*FB1 is used to reduce noise on power line or signal line .
